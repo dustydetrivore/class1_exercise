@@ -1,11 +1,19 @@
 p {
-	color: black;
+	color: #733E78;
 	font-family: Verdana;
 	text-decoration: overline underline;
 }
 
 .green {
 	color: white;
+}
+
+body {
+	background-color: #16591E;
+}
+
+header, aside, article {
+	background-color: #178A25;
 }
 
 ul {
@@ -15,6 +23,24 @@ ul {
 li {
 	padding-left: 10px;
 	line-height: 25px;
+}
+
+header h2, header h3, header h4 {
+	text-align: center;
+}
+
+header {
+	padding: 20px 10px;
+}
+
+header h1 {
+	font-size: 40px;
+}
+
+#image {
+	float: left;
+	margin-top: 25px;
+	margin-right: 20px;
 }
 
 /* mouse over link */

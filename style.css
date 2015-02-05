@@ -1,0 +1,24 @@
+p {
+	color: black;
+	font-family: Verdana;
+	text-decoration: overline underline;
+}
+
+.green {
+	color: white;
+}
+
+ul {
+	list-style-type: square;
+}
+
+li {
+	padding-left: 10px;
+	line-height: 25px;
+}
+
+/* mouse over link */
+a:hover {
+	color: #FF00FF;
+}
+
